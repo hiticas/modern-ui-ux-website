@@ -18,7 +18,7 @@
      Implemented this project step by step following <br><a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
     </div>
    <div align="center">
-     Live Demo: <a href=https://modern-ui-ux-website-mike.vercel.app>https://modern-ui-ux-website-mike.vercel.app</a>
+     Live Demo: <a href=https://modern-uiux-website.netlify.app/>https://modern-uiux-website.netlify.app/</a>
     </div>
 </div>
 
